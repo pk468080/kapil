@@ -1,0 +1,82 @@
+[
+  {
+    "old_code": "IPC",
+    "old_section": "302",
+    "new_code": "BNS",
+    "new_section": "103",
+    "title": "Murder",
+    "notes": "Punishment retained; Section renumbered under BNS."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "304",
+    "new_code": "BNS",
+    "new_section": "105",
+    "title": "Culpable homicide not amounting to murder",
+    "notes": "Substantially similar; check updated sentencing guidelines."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "307",
+    "new_code": "BNS",
+    "new_section": "109",
+    "title": "Attempt to murder",
+    "notes": "Provisions retained with minor drafting changes."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "354",
+    "new_code": "BNS",
+    "new_section": "74",
+    "title": "Assault or criminal force to woman with intent to outrage her modesty",
+    "notes": "Expanded with clearer definitions under BNS; harsher penalties introduced."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "376",
+    "new_code": "BNS",
+    "new_section": "64",
+    "title": "Rape",
+    "notes": "Definition broadened; minimum sentence retained at 7 years."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "420",
+    "new_code": "BNS",
+    "new_section": "318",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "notes": "Updated wording; check updated punishment details."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "499",
+    "new_code": "BNS",
+    "new_section": "356",
+    "title": "Defamation",
+    "notes": "Provisions substantially similar; minor textual changes."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "503",
+    "new_code": "BNS",
+    "new_section": "351",
+    "title": "Criminal intimidation",
+    "notes": "Retained with same punishment; renumbered."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "379",
+    "new_code": "BNS",
+    "new_section": "303",
+    "title": "Theft",
+    "notes": "Provisions retained; renumbered under BNS."
+  },
+  {
+    "old_code": "IPC",
+    "old_section": "395",
+    "new_code": "BNS",
+    "new_section": "310",
+    "title": "Dacoity",
+    "notes": "Definition and punishment unchanged; section renumbered."
+  }
+]
