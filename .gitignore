@@ -22,3 +22,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Alembic
+backend/alembic/versions/*.pyc
